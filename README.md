@@ -3,6 +3,8 @@
 ## Overview
 This project aims to analyze COVID-19 data to answer several key questions about the pandemic's impact across different countries and continents. By using SQL queries, we can extract meaningful insights from the data, such as infection and death rates, vaccination progress, and the percentage of the population affected by the virus.
 
+![COVID-19 Impact](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/08/082123_bl_long-covid_feat.jpg?resize=1380%2C776&ssl=1)
+
 ## Data Sources :  https://ourworldindata.org/covid-deaths
 The data used in this project includes:
 - **CovidDeaths**: This table contains data on COVID-19 cases, deaths, and population for various locations and dates.
