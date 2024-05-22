@@ -3,11 +3,10 @@
 ## Overview
 This project aims to analyze COVID-19 data to answer several key questions about the pandemic's impact across different countries and continents. By using SQL queries, we can extract meaningful insights from the data, such as infection and death rates, vaccination progress, and the percentage of the population affected by the virus.
 
-## Data Sources
+## Data Sources :  https://ourworldindata.org/covid-deaths
 The data used in this project includes:
 - **CovidDeaths**: This table contains data on COVID-19 cases, deaths, and population for various locations and dates.
 - **CovidVaccinations**: This table includes data on COVID-19 vaccinations for different locations and dates.
-These tables were created using the data from : https://ourworldindata.org/covid-deaths
 
 ## Questions to Answer
 1. What is the percentage likelihood of dying if you contract COVID-19 in India?
